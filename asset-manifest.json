@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://bensela.github.io/reignhostingservices/static/css/main.3f373368.css",
+    "main.js": "https://bensela.github.io/reignhostingservices/static/js/main.e4dfec22.js",
+    "index.html": "https://bensela.github.io/reignhostingservices/index.html",
+    "main.3f373368.css.map": "https://bensela.github.io/reignhostingservices/static/css/main.3f373368.css.map",
+    "main.e4dfec22.js.map": "https://bensela.github.io/reignhostingservices/static/js/main.e4dfec22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f373368.css",
+    "static/js/main.e4dfec22.js"
+  ]
+}
